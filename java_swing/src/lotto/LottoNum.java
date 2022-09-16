@@ -24,7 +24,7 @@ public class LottoNum {
 				}
 			}
 		}
-		//for문 끝나고 위치할 것 arrayssort
+		//for문 끝나고 위치할 것 arrayssortasdfkljsfadjklasdfjlkasdflkj
 		Arrays.sort(lottoWinNum);
 		return lottoWinNum;
 	}

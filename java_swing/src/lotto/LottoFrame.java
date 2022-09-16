@@ -56,7 +56,7 @@ public class LottoFrame extends JFrame implements ActionListener {
 		button1.addActionListener(this);
 		button2.addActionListener(this);
 	}
-
+s
 	public void setUpLottoNumber() {
 		int[] numbers = lottoNum.createdLottoNum();
 		label1.setText(Arrays.toString(numbers));
